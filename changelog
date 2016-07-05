@@ -1,4 +1,28 @@
-commit fe0cae9663ecb19ce35cceb6f2310fa9c60ab47b (HEAD, origin/master, origin/HEAD, master)
+commit 4fae73e87ff56e10e99dd6cba014b22ccbabda22 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Jul 5 13:21:40 2016 -0400
+
+    * zenodo
+
+commit a06716f3c68e4a57b5287ce16ca2e45fea9b28cc
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Jul 5 13:15:18 2016 -0400
+
+    * se agrega la imagen de la licencia y travis
+
+commit 412b64fbf1e3b4ab7638437943b920d51a97989a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Jul 5 13:14:01 2016 -0400
+
+    * se activa travis ci
+
+commit cea423161718b55de4b8dbb242f6f7c99655e576
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Jul 5 13:10:35 2016 -0400
+
+    * changelog
+
+commit fe0cae9663ecb19ce35cceb6f2310fa9c60ab47b
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Jul 5 13:10:24 2016 -0400
 
