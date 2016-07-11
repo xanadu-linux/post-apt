@@ -11,7 +11,8 @@ update-alternatives --install /usr/share/images/desktop-base/login-background.sv
 update-alternatives --install /usr/share/images/desktop-base/random/joy-wallpaper_1280x1024.svg wall-4 /usr/share/images/desktop-base/xanadu-wallpaper_1280x1024.svg 90
 update-alternatives --install /usr/share/images/desktop-base/joy-grub.png wall-5 /usr/share/images/desktop-base/xanadu-grub.png 90
 rm -f /usr/share/applications/clamtk.desktop
-apt-get clean
+rm -rf /var/cache/apt/*
+rm -rf /var/cache/apt/archives/*
 
 rm -f /run/$(basename $0).pid
 exit 0
