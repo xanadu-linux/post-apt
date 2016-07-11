@@ -1,4 +1,16 @@
-commit 531e795a3c08db11968925a1ee955720f9f3bd3b (HEAD, origin/master, origin/HEAD, master)
+commit d281e3d8cf032b3d9cf72321917dd370c728bfdd (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jul 11 15:45:38 2016 -0400
+
+    * se corrige un error al limpiar el cache de apt
+
+commit 8b4061fedacb9916d891641a5502feb141506880
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Jul 5 18:32:17 2016 -0400
+
+    * changelog
+
+commit 531e795a3c08db11968925a1ee955720f9f3bd3b
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Jul 5 18:31:43 2016 -0400
 
@@ -30,7 +42,7 @@ Date:   Tue Jul 5 13:21:40 2016 -0400
 
     * zenodo
 
-commit a06716f3c68e4a57b5287ce16ca2e45fea9b28cc
+commit a06716f3c68e4a57b5287ce16ca2e45fea9b28cc (tag: v0.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Jul 5 13:15:18 2016 -0400
 
