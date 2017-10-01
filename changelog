@@ -1,4 +1,16 @@
-commit d281e3d8cf032b3d9cf72321917dd370c728bfdd (HEAD, origin/master, origin/HEAD, master)
+commit 819fbacfbc201f8ec2abfab9d5ae125d12399766 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Oct 1 17:46:51 2017 -0400
+
+    * modificaciones de la auditoria
+
+commit c5b61acbf5f3972d5a97cc6c28a067111483a3fc
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jul 11 15:45:59 2016 -0400
+
+    * changelog
+
+commit d281e3d8cf032b3d9cf72321917dd370c728bfdd
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Jul 11 15:45:38 2016 -0400
 
