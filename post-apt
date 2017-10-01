@@ -2,9 +2,10 @@
 # Made by Sinfallas <sinfallas@yahoo.com>
 # Licence: GPL-2
 LC_ALL=C
+IFS=" "
 trap "rm -f /run/$(basename $0).pid; exit" 0 1 2 3 15
 echo "$BASHPID" > /run/$(basename $0).pid
-
+exec 2>/var/log/$(basename $0).log
 source /etc/cron.daily/prelink
 ln -sf /usr/share/images/desktop-base/xanadu-wallpaper_1280x1024.svg /usr/share/images/desktop-base/joy-wallpaper_1280x1024.svg
 ln -sf /usr/share/images/desktop-base/xanadu-grub.png /usr/share/images/desktop-base/desktop-grub.png
